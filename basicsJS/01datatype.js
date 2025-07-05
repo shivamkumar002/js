@@ -10,6 +10,6 @@
 
 // :> type of datatypes
 
-// 1.PRIMITIVE :- [number,string,null,boolean , undefined ,character ,]
+// 1.PRIMITIVE :- [number,string,null,boolean , undefined ,Variable ]
 
 //  2. NON-PRIMITIVE :- [ Array , function , object]
